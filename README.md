@@ -47,8 +47,7 @@
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/tecede2405" />
+  <img src="https://ghchart.rshah.org/39d353/tecede2405" alt="GitHub Contributions" />
 </p>
-
 
 ⭐️ Thanks for visiting my GitHub profile!
