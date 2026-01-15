@@ -3,16 +3,16 @@
 ## 💻 Code Hard, Sleep Rarely
 
 <p align="left">
-  <a href="https://tecede.netlify.app">
+  <a href="https://tecede.netlify.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@tecede24.5">
+  <a href="https://www.tiktok.com/@tecede24.5" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/p.qthoai_/">
+  <a href="https://www.instagram.com/p.qthoai_/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/thoaidz.vx">
+  <a href="https://www.facebook.com/thoaidz.vx" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
