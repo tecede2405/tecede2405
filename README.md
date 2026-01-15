@@ -45,4 +45,9 @@
 
 ---
 
+## 📈 Contribution Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tecede2405&theme=github-dark)
+
+
 ⭐️ Thanks for visiting my GitHub profile!
