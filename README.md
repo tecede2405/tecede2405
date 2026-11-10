@@ -1,6 +1,6 @@
-# 👋 Hey there! I'm Tecede
+# Hey there! I'm Tecede
 
-## 💻 Code Hard, Sleep Rarely
+## Code Hard, Sleep Rarely
 
 <p align="left">
   <a href="https://tecede.netlify.app" target="_blank" rel="noopener noreferrer">
@@ -21,11 +21,11 @@
 
 ## ✨ About Me
 
-- 🌱 Currently learning **Web Development**
-- 💬 Interested in **Frontend, Backend, APIs & System Design**
-- 📫 Contact: **thoaixd123@gmail.com**
+- Currently learning **Web Development**
+- Interested in **Frontend, Backend, APIs & System Design**
+- Contact: **thoaixd123@gmail.com**
 
-> _“First, solve the problem. Then, write the code.” 😎_
+> _“First, solve the problem. Then, write the code.” _
 
 ---
 
@@ -45,9 +45,9 @@
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 <p align="center">
   <img src="https://ghchart.rshah.org/39d353/tecede2405" alt="GitHub Contributions" />
 </p>
 
-⭐️ Thanks for visiting my GitHub profile!
+Thanks for visiting my GitHub profile!
